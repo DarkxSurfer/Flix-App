@@ -7,6 +7,7 @@ import 'package:moviesapp/screens/movies_screen.dart';
 import '../controllers/main_controller.dart';
 import '../services/api_helper.dart';
 
+
 class NavigationToggle extends StatefulWidget {
   const NavigationToggle({super.key});
 
